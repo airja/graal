@@ -4,8 +4,8 @@ suite = {
   "sourceinprojectwhitelist" : [],
 
   "groupId" : "org.graalvm.compiler",
-  "version" : "19.0.1",
-  "release" : True,
+  "version" : "19.0.2",
+  "release" : False,
   "url" : "http://www.graalvm.org/",
   "developer" : {
     "name" : "Truffle and Graal developers",
